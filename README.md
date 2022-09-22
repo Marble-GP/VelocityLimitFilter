@@ -1,6 +1,6 @@
 # VelocityLimitFilter
 ## about
-An implementation of IIR filter that limits the velocity.
+An implementation of digital (nonlinear) IIR filter that limits the velocity.
 
 ## refrence links
 https://www.jstage.jst.go.jp/article/sicetr/54/1/54_146/_pdf/-char/ja  
